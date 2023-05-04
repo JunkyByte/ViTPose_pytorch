@@ -1,4 +1,7 @@
 # ViTPose (simple version w/o mmcv)
+
+# This fork is now a standalone repo https://github.com/JunkyByte/easy_ViTPose
+
 An unofficial implementation of `ViTPose` [Y. Xu et al., 2022] <br>
 ![result_image](./examples/img1_result.jpg "Result Image")
 
